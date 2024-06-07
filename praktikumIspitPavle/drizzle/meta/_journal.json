@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1717500556112,
+      "tag": "0000_clever_doctor_spectrum",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717503339842,
+      "tag": "0001_complex_xorn",
+      "breakpoints": true
+    }
+  ]
+}
